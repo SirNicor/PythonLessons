@@ -74,7 +74,7 @@ def checkTryCatch():
             change = int(input())
             if not(isinstance(change, int)):
                 raise TypeError
-            if not(change in range(0, 101)):
+            if not(change in range(1, 3)):
                     raise IndexError
         except (TypeError, ValueError):
             print(f"Вы ввели не тот тип данных")
