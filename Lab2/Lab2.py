@@ -44,7 +44,6 @@ def main():
                 book = {"title": title, "author": author, "year": year, "pages": pages}
                 books.append(book)
     
-        # ===== МЕНЮ =====
         while True:
             print("\n===== МЕНЮ =====")
             print("1. Добавить книгу")
