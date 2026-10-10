@@ -1,0 +1,30 @@
+[
+    {
+        "article": "2",
+        "name": "dfg ghj 100 10",
+        "category": "ghj",
+        "price": 100.0,
+        "quantity": 10
+    },
+    {
+        "article": "ART3758",
+        "name": "Ноутбук",
+        "category": "Электроника",
+        "price": 37379.0,
+        "quantity": 82
+    },
+    {
+        "article": "ART8742",
+        "name": "Мишка",
+        "category": "Игрушки",
+        "price": 37395.18,
+        "quantity": 18
+    },
+    {
+        "article": "ART2825",
+        "name": "Молоко",
+        "category": "Одежда",
+        "price": 41209.58,
+        "quantity": 62
+    }
+]
