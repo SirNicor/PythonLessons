@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Вишнёвый сад (1)",
+        "author": "Толстой",
+        "year": 1930,
+        "numberOfPages": 89,
+        "rating": 62
+    },
+    {
+        "title": "Идиот (2)",
+        "author": "Булгаков",
+        "year": 1955,
+        "numberOfPages": 387,
+        "rating": 94
+    },
+    {
+        "title": "Капитанская дочка (3)",
+        "author": "Достоевский",
+        "year": 1906,
+        "numberOfPages": 573,
+        "rating": 73
+    },
+    {
+        "title": "Преступление и наказание (4)",
+        "author": "Булгаков",
+        "year": 2018,
+        "numberOfPages": 91,
+        "rating": 48
+    },
+    {
+        "title": "Мастер и Маргарита (5)",
+        "author": "Гоголь",
+        "year": 1887,
+        "numberOfPages": 678,
+        "rating": 62
+    }
+]
