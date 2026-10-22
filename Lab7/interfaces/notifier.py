@@ -1,0 +1,6 @@
+from typing import Protocol
+
+
+class Notifier(Protocol):
+    def send_ticket_confirmation(self, ticket_id: int, session_info: str) -> None: ...
+    def send_refund_confirmation(self, ticket_id: int) -> None: ...
